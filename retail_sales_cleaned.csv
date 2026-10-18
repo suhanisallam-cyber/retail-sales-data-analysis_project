@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Customer_ID,Region,State,Category,Product,Quantity,Unit_Price,Discount,Sales,Profit,Payment_Mode,Ship_Mode
+ORD0296,2025-01-01,CUST0108,West,Rajasthan,Electronics,Headphones,5,1800,0.15,7650.0,5050.0,Cash,Standard
+ORD0163,2025-01-02,CUST0033,North,Delhi,Stationery,File Folder,4,70,0.0,280.0,208.0,Net Banking,Express
+ORD0191,2025-01-03,CUST0085,North,Uttar Pradesh,Electronics,Headphones,6,1800,0.1,9720.0,6600.0,Credit Card,Express
+ORD0359,2025-01-08,CUST0096,North,Punjab,Home & Kitchen,Lunch Box,7,550,0.05,3657.5,2677.5,UPI,Same Day
+ORD0054,2025-01-09,CUST0074,East,Odisha,Stationery,Sticky Notes,3,60,0.1,162.0,117.0,Cash,Standard
+ORD0065,2025-01-10,CUST0056,North,Uttar Pradesh,Home & Kitchen,Storage Box,5,700,0.1,3150.0,2150.0,Credit Card,Same Day
+ORD0330,2025-01-14,CUST0110,North,Delhi,Home & Kitchen,Lunch Box,4,550,0.1,1980.0,1420.0,Cash,Standard
+ORD0009,2025-01-15,CUST0045,West,Maharashtra,Home & Kitchen,Coffee Mug,4,250,0.0,1000.0,740.0,UPI,Same Day
+ORD0128,2025-01-16,CUST0145,North,Punjab,Stationery,Notebook,5,120,0.1,540.0,365.0,Credit Card,Standard
+ORD0230,2025-01-17,CUST0133,South,Karnataka,Stationery,Notebook,5,120,0.15,510.0,335.0,Credit Card,Same Day
+ORD0249,2025-01-19,CUST0094,West,Rajasthan,Stationery,File Folder,6,70,0.2,336.0,228.0,UPI,Same Day
+ORD0001,2025-01-21,CUST0103,West,Gujarat,Furniture,Office Chair,7,6500,0.1,40950.0,32550.0,Debit Card,Same Day
+ORD0171,2025-01-24,CUST0148,West,Maharashtra,Furniture,Study Desk,5,8500,0.1,38250.0,30750.0,Cash,Express
+ORD0052,2025-01-25,CUST0123,East,West Bengal,Furniture,Desk Lamp,5,1100,0.0,5500.0,4000.0,Cash,Standard
+ORD0120,2025-01-27,CUST0057,West,Rajasthan,Home & Kitchen,Storage Box,5,700,0.0,3500.0,2500.0,Debit Card,Express
+ORD0122,2025-01-29,CUST0149,North,Punjab,Stationery,Markers,5,180,0.1,810.0,535.0,Debit Card,Standard
+ORD0388,2025-01-29,CUST0024,East,Odisha,Stationery,Markers,6,180,0.1,972.0,642.0,Credit Card,Standard
+ORD0456,2025-01-31,CUST0119,North,Unknown,Home & Kitchen,Lunch Box,6,550,0.15,2805.0,1965.0,Cash,Express
+ORD0147,2025-01-31,CUST0023,Central,Chhattisgarh,Electronics,USB Hub,3,900,0.2,2160.0,1410.0,Credit Card,Same Day
+ORD0153,2025-02-02,CUST0134,South,Telangana,Electronics,USB Hub,4,900,0.0,3600.0,2600.0,Debit Card,Same Day
+ORD0119,2025-02-03,CUST0017,Central,Madhya Pradesh,Stationery,Pen Pack,5,90,0.15,382.5,257.5,UPI,Express
+ORD0170,2025-02-04,CUST0093,North,Uttar Pradesh,Electronics,Wireless Mouse,3,650,0.1,1755.0,1215.0,UPI,Same Day
+ORD0310,2025-02-04,CUST0087,East,Odisha,Electronics,Keyboard,5,1200,0.05,5700.0,3950.0,Cash,Express
+ORD0373,2025-02-07,CUST0141,East,Bihar,Furniture,Desk Lamp,3,1100,0.0,3300.0,2400.0,Credit Card,Express
+ORD0143,2025-02-07,CUST0072,East,Bihar,Stationery,Sticky Notes,3,60,0.0,180.0,135.0,Net Banking,Express
+ORD0131,2025-02-08,CUST0015,East,West Bengal,Electronics,USB Hub,3,900,0.0,2700.0,1950.0,Cash,Standard
+ORD0411,2025-02-08,CUST0150,South,Karnataka,Electronics,Wireless Mouse,6,650,0.1,3510.0,2430.0,Net Banking,Express
+ORD0430,2025-02-09,CUST0130,South,Tamil Nadu,Furniture,Bookshelf,6,4200,0.05,23940.0,19140.0,Cash,Express
+ORD0270,2025-02-09,CUST0129,North,Punjab,Electronics,Headphones,5,1800,0.15,7650.0,5050.0,Net Banking,Same Day
+ORD0299,2025-02-10,CUST0002,North,Punjab,Stationery,File Folder,1,70,0.0,70.0,52.0,Net Banking,Standard
+ORD0045,2025-02-12,CUST0044,North,Delhi,Home & Kitchen,Coffee Mug,3,250,0.15,637.5,442.5,Net Banking,Same Day
+ORD0074,2025-02-12,CUST0115,South,Telangana,Home & Kitchen,Water Bottle,2,450,0.0,900.0,660.0,UPI,Same Day
+ORD0030,2025-02-15,CUST0117,West,Gujarat,Stationery,Notebook,4,120,0.15,408.0,268.0,Debit Card,Standard
+ORD0277,2025-02-16,CUST0148,East,West Bengal,Electronics,USB Hub,2,900,0.0,1800.0,1300.0,Debit Card,Express
+ORD0078,2025-02-16,CUST0121,Central,Chhattisgarh,Furniture,Office Chair,3,6500,0.0,19500.0,15900.0,Debit Card,Same Day
+ORD0293,2025-02-18,CUST0046,West,Maharashtra,Furniture,Bookshelf,6,4200,0.1,22680.0,17880.0,Debit Card,Standard
+ORD0254,2025-02-18,CUST0149,East,Odisha,Electronics,USB Hub,5,900,0.05,4275.0,3025.0,Net Banking,Express
+ORD0453,2025-02-19,CUST0102,East,Odisha,Electronics,Monitor,2,12500,0.0,25000.0,20600.0,Cash,Same Day
+ORD0194,2025-02-20,CUST0015,East,West Bengal,Home & Kitchen,Water Bottle,4,450,0.2,1440.0,960.0,Net Banking,Express
+ORD0020,2025-02-22,CUST0068,North,Punjab,Electronics,Wireless Mouse,1,650,0.0,650.0,470.0,Debit Card,Same Day
+ORD0463,2025-02-22,CUST0131,East,West Bengal,Home & Kitchen,Water Bottle,3,450,0.0,1350.0,990.0,Credit Card,Express
+ORD0139,2025-02-23,CUST0047,West,Rajasthan,Furniture,Office Chair,1,6500,0.2,5200.0,4000.0,UPI,Standard
+ORD0036,2025-02-23,CUST0101,Central,Madhya Pradesh,Electronics,USB Hub,6,900,0.1,4860.0,3360.0,Unknown,Standard
+ORD0454,2025-02-25,CUST0104,East,Bihar,Electronics,Headphones,5,1800,0.1,8100.0,5500.0,Net Banking,Express
+ORD0200,2025-03-01,CUST0089,East,Odisha,Electronics,Monitor,2,12500,0.1,22500.0,18100.0,Debit Card,Express
+ORD0248,2025-03-01,CUST0147,East,West Bengal,Stationery,Pen Pack,6,90,0.15,459.0,309.0,Debit Card,Express
+ORD0137,2025-03-03,CUST0077,South,Tamil Nadu,Home & Kitchen,Water Bottle,5,450,0.0,2250.0,1650.0,UPI,Same Day
+ORD0286,2025-03-03,CUST0113,West,Gujarat,Stationery,Notebook,7,120,0.1,756.0,511.0,Cash,Same Day
+ORD0108,2025-03-04,CUST0104,East,West Bengal,Home & Kitchen,Water Bottle,1,450,0.1,405.0,285.0,UPI,Standard
+ORD0243,2025-03-07,CUST0112,South,Karnataka,Electronics,USB Hub,6,900,0.1,4860.0,3360.0,UPI,Express
+ORD0285,2025-03-09,CUST0008,Central,Chhattisgarh,Home & Kitchen,Water Bottle,3,450,0.0,1350.0,990.0,UPI,Standard
+ORD0393,2025-03-14,CUST0096,South,Tamil Nadu,Stationery,Sticky Notes,2,60,0.1,108.0,78.0,UPI,Same Day
+ORD0040,2025-03-17,CUST0144,South,Telangana,Stationery,Sticky Notes,6,60,0.1,324.0,234.0,Net Banking,Express
+ORD0348,2025-03-20,CUST0124,West,Rajasthan,Stationery,Sticky Notes,2,60,0.1,108.0,78.0,Cash,Express
+ORD0060,2025-03-21,CUST0118,West,Maharashtra,Stationery,Sticky Notes,5,60,0.0,300.0,225.0,Debit Card,Standard
+ORD0396,2025-03-24,CUST0129,East,Odisha,Electronics,Monitor,7,12500,0.0,87500.0,72100.0,Cash,Standard
+ORD0155,2025-03-25,CUST0022,North,Punjab,Furniture,Office Chair,5,6500,0.0,32500.0,26500.0,Debit Card,Same Day
+ORD0156,2025-03-25,CUST0006,West,Rajasthan,Home & Kitchen,Coffee Mug,4,250,0.1,900.0,640.0,UPI,Standard
+ORD0368,2025-03-25,CUST0143,East,Odisha,Electronics,Keyboard,5,1200,0.05,5700.0,3950.0,Cash,Standard
+ORD0360,2025-03-27,CUST0044,West,Maharashtra,Stationery,Markers,4,180,0.1,648.0,428.0,Net Banking,Express
+ORD0229,2025-03-28,CUST0101,Central,Chhattisgarh,Furniture,Bookshelf,5,4200,0.1,18900.0,14900.0,Net Banking,Standard
+ORD0046,2025-03-31,CUST0008,Central,Madhya Pradesh,Furniture,Office Chair,3,6500,0.1,17550.0,13950.0,Credit Card,Express
+ORD0417,2025-04-03,CUST0048,West,Maharashtra,Stationery,Sticky Notes,2,60,0.0,120.0,90.0,Net Banking,Standard
+ORD0113,2025-04-06,CUST0088,North,Uttar Pradesh,Stationery,Markers,1,180,0.1,162.0,107.0,Debit Card,Standard
+ORD0332,2025-04-06,CUST0038,North,Delhi,Electronics,Wireless Mouse,2,650,0.1,1170.0,810.0,Credit Card,Standard
+ORD0097,2025-04-07,CUST0033,Central,Chhattisgarh,Furniture,Bookshelf,3,4200,0.1,11340.0,8940.0,Cash,Express
+ORD0471,2025-04-08,CUST0009,South,Telangana,Furniture,Study Desk,7,8500,0.0,59500.0,49000.0,Cash,Standard
+ORD0367,2025-04-09,CUST0076,West,Gujarat,Home & Kitchen,Water Bottle,3,450,0.1,1215.0,855.0,Debit Card,Same Day
+ORD0337,2025-04-11,CUST0048,Central,Madhya Pradesh,Furniture,Bookshelf,4,4200,0.2,13440.0,10240.0,Cash,Standard
+ORD0377,2025-04-12,CUST0065,West,Rajasthan,Stationery,File Folder,7,70,0.1,441.0,315.0,UPI,Same Day
+ORD0188,2025-04-12,CUST0132,West,Gujarat,Electronics,Wireless Mouse,3,650,0.15,1657.5,1117.5,Debit Card,Express
+ORD0204,2025-04-12,CUST0042,North,Punjab,Electronics,Monitor,6,12500,0.0,75000.0,61800.0,Net Banking,Express
+ORD0201,2025-04-18,CUST0119,South,Karnataka,Furniture,Study Desk,5,8500,0.0,42500.0,35000.0,UPI,Express
+ORD0311,2025-04-19,CUST0022,East,West Bengal,Home & Kitchen,Water Bottle,5,450,0.0,2250.0,1650.0,Net Banking,Standard
+ORD0241,2025-04-21,CUST0136,West,Gujarat,Stationery,File Folder,7,70,0.15,416.5,290.5,Credit Card,Standard
+ORD0457,2025-04-22,CUST0060,South,Tamil Nadu,Stationery,Sticky Notes,6,60,0.1,324.0,234.0,UPI,Standard
+ORD0484,2025-04-22,CUST0108,South,Telangana,Stationery,Pen Pack,5,90,0.05,427.5,302.5,Cash,Same Day
+ORD0446,2025-04-22,CUST0119,North,Punjab,Furniture,Study Desk,6,8500,0.0,51000.0,42000.0,Debit Card,Same Day
+ORD0026,2025-04-22,CUST0099,South,Karnataka,Home & Kitchen,Coffee Mug,6,250,0.1,1350.0,960.0,Net Banking,Express
+ORD0385,2025-04-23,CUST0012,East,Odisha,Home & Kitchen,Storage Box,3,700,0.0,2100.0,1500.0,Net Banking,Same Day
+ORD0019,2025-04-23,CUST0002,Central,Chhattisgarh,Stationery,Markers,1,180,0.0,180.0,125.0,Cash,Express
+ORD0018,2025-04-23,CUST0062,Central,Madhya Pradesh,Electronics,Monitor,7,12500,0.0,87500.0,72100.0,Credit Card,Express
+ORD0110,2025-04-24,CUST0063,Central,Chhattisgarh,Stationery,Pen Pack,2,90,0.05,171.0,121.0,UPI,Standard
+ORD0117,2025-04-25,CUST0014,Central,Madhya Pradesh,Furniture,Study Desk,7,8500,0.1,53550.0,43050.0,Credit Card,Standard
+ORD0031,2025-04-26,CUST0067,South,Tamil Nadu,Home & Kitchen,Water Bottle,1,450,0.1,405.0,285.0,UPI,Express
+ORD0364,2025-04-26,CUST0093,North,Delhi,Home & Kitchen,Storage Box,2,700,0.05,1330.0,930.0,Debit Card,Express
+ORD0344,2025-04-29,CUST0016,Central,Madhya Pradesh,Home & Kitchen,Lunch Box,4,550,0.05,2090.0,1530.0,UPI,Express
+ORD0407,2025-05-01,CUST0129,South,Tamil Nadu,Electronics,Monitor,7,12500,0.0,87500.0,72100.0,Net Banking,Standard
+ORD0099,2025-05-10,CUST0095,West,Bihar,Stationery,Sticky Notes,5,60,0.0,300.0,225.0,Debit Card,Express
+ORD0125,2025-05-11,CUST0108,South,Telangana,Furniture,Bookshelf,2,4200,0.05,7980.0,6380.0,Credit Card,Same Day
+ORD0011,2025-05-15,CUST0072,East,Odisha,Stationery,Pen Pack,7,90,0.1,567.0,392.0,UPI,Same Day
+ORD0092,2025-05-17,CUST0076,South,Telangana,Stationery,Pen Pack,6,90,0.15,459.0,309.0,Debit Card,Standard
+ORD0252,2025-05-18,CUST0050,West,Rajasthan,Stationery,Pen Pack,5,90,0.0,450.0,325.0,Net Banking,Same Day
+ORD0073,2025-05-18,CUST0145,West,Gujarat,Furniture,Bookshelf,2,4200,0.15,7140.0,5540.0,UPI,Standard
+ORD0422,2025-05-19,CUST0030,West,Maharashtra,Furniture,Bookshelf,3,4200,0.15,10710.0,8310.0,Credit Card,Same Day
+ORD0314,2025-05-19,CUST0017,North,Punjab,Electronics,USB Hub,3,900,0.0,2700.0,1950.0,Cash,Express
+ORD0481,2025-05-20,CUST0132,North,Punjab,Stationery,Pen Pack,7,90,0.05,598.5,423.5,UPI,Express
+ORD0133,2025-05-21,CUST0018,West,Rajasthan,Furniture,Study Desk,6,8500,0.0,51000.0,42000.0,Debit Card,Same Day
+ORD0496,2025-05-21,CUST0058,East,Odisha,Home & Kitchen,Lunch Box,1,550,0.05,522.5,382.5,Net Banking,Same Day
+ORD0334,2025-05-21,CUST0083,South,Karnataka,Home & Kitchen,Coffee Mug,4,250,0.1,900.0,640.0,Cash,Same Day
+ORD0420,2025-05-24,CUST0025,East,Odisha,Stationery,Sticky Notes,3,60,0.1,162.0,117.0,Cash,Standard
+ORD0095,2025-05-25,CUST0053,Central,Chhattisgarh,Stationery,Markers,5,180,0.0,900.0,625.0,Debit Card,Same Day
+ORD0176,2025-05-25,CUST0123,North,Delhi,Furniture,Desk Lamp,7,1100,0.05,7315.0,5215.0,UPI,Express
+ORD0185,2025-05-25,CUST0026,North,Punjab,Home & Kitchen,Lunch Box,3,550,0.1,1485.0,1065.0,UPI,Same Day
+ORD0237,2025-05-29,CUST0141,North,Uttar Pradesh,Electronics,Wireless Mouse,4,650,0.15,2210.0,1490.0,Net Banking,Express
+ORD0114,2025-05-31,CUST0085,Central,Madhya Pradesh,Electronics,Keyboard,7,1200,0.1,7560.0,5110.0,Net Banking,Same Day
+ORD0447,2025-06-05,CUST0090,South,Tamil Nadu,Home & Kitchen,Lunch Box,4,550,0.2,1760.0,1200.0,Net Banking,Standard
+ORD0107,2025-06-05,CUST0114,South,Karnataka,Electronics,Wireless Mouse,1,650,0.1,585.0,405.0,UPI,Same Day
+ORD0098,2025-06-08,CUST0047,West,Maharashtra,Stationery,Sticky Notes,3,60,0.1,162.0,117.0,Cash,Same Day
+ORD0027,2025-06-10,CUST0068,West,Maharashtra,Electronics,Keyboard,2,1200,0.1,2160.0,1460.0,Net Banking,Same Day
+ORD0355,2025-06-10,CUST0075,East,West Bengal,Home & Kitchen,Coffee Mug,4,250,0.15,850.0,590.0,Credit Card,Same Day
+ORD0181,2025-06-10,CUST0012,South,Tamil Nadu,Electronics,Headphones,6,1800,0.0,10800.0,7680.0,Cash,Standard
+ORD0187,2025-06-10,CUST0089,Central,Chhattisgarh,Electronics,Monitor,2,12500,0.2,20000.0,15600.0,Net Banking,Standard
+ORD0157,2025-06-12,CUST0064,North,Delhi,Home & Kitchen,Water Bottle,2,450,0.15,765.0,525.0,UPI,Express
+ORD0370,2025-06-13,CUST0024,West,Gujarat,Furniture,Bookshelf,3,4200,0.15,10710.0,8310.0,Cash,Same Day
+ORD0391,2025-06-15,CUST0022,North,Uttar Pradesh,Furniture,Bookshelf,2,4200,0.0,8400.0,6800.0,Debit Card,Same Day
+ORD0164,2025-06-15,CUST0103,North,Uttar Pradesh,Electronics,Monitor,2,12500,0.05,23750.0,19350.0,Credit Card,Express
+ORD0491,2025-06-15,CUST0081,West,Gujarat,Stationery,Notebook,1,120,0.1,108.0,73.0,Net Banking,Express
+ORD0382,2025-06-17,CUST0083,West,Maharashtra,Home & Kitchen,Storage Box,4,700,0.1,2520.0,1720.0,UPI,Standard
+ORD0146,2025-06-19,CUST0100,Central,Madhya Pradesh,Electronics,Wireless Mouse,5,650,0.15,2762.5,1862.5,Debit Card,Express
+ORD0399,2025-06-19,CUST0039,Central,Madhya Pradesh,Home & Kitchen,Coffee Mug,1,250,0.05,237.5,172.5,Net Banking,Same Day
+ORD0361,2025-06-19,CUST0104,South,Tamil Nadu,Stationery,File Folder,4,70,0.0,280.0,208.0,Debit Card,Express
+ORD0419,2025-06-20,CUST0025,Central,Madhya Pradesh,Stationery,Sticky Notes,1,60,0.0,60.0,45.0,Net Banking,Same Day
+ORD0207,2025-06-21,CUST0002,North,Uttar Pradesh,Furniture,Office Chair,2,6500,0.0,13000.0,10600.0,UPI,Same Day
+ORD0218,2025-06-22,CUST0012,East,West Bengal,Electronics,USB Hub,2,900,0.05,1710.0,1210.0,Cash,Express
+ORD0362,2025-06-22,CUST0010,West,Maharashtra,Furniture,Office Chair,5,6500,0.05,30875.0,24875.0,Debit Card,Express
+ORD0476,2025-06-26,CUST0043,North,Uttar Pradesh,Stationery,Sticky Notes,3,60,0.05,171.0,126.0,Net Banking,Express
+ORD0106,2025-06-28,CUST0025,South,Telangana,Furniture,Study Desk,3,8500,0.05,24225.0,19725.0,Cash,Express
+ORD0450,2025-06-30,CUST0088,South,Telangana,Furniture,Bookshelf,7,4200,0.1,26460.0,20860.0,UPI,Same Day
+ORD0458,2025-06-30,CUST0009,North,Uttar Pradesh,Furniture,Bookshelf,2,4200,0.15,7140.0,5540.0,Net Banking,Standard
+ORD0343,2025-07-01,CUST0116,Central,Chhattisgarh,Stationery,Pen Pack,3,90,0.05,256.5,181.5,Net Banking,Same Day
+ORD0329,2025-07-02,CUST0023,Central,Chhattisgarh,Stationery,Sticky Notes,3,60,0.1,162.0,117.0,Credit Card,Express
+ORD0380,2025-07-02,CUST0065,West,Maharashtra,Home & Kitchen,Storage Box,1,700,0.1,630.0,430.0,Debit Card,Express
+ORD0317,2025-07-03,CUST0020,Central,Madhya Pradesh,Electronics,Headphones,7,1800,0.0,12600.0,8960.0,Credit Card,Express
+ORD0477,2025-07-05,CUST0099,South,Tamil Nadu,Stationery,Notebook,4,120,0.1,432.0,292.0,Debit Card,Standard
+ORD0053,2025-07-05,CUST0142,North,Punjab,Stationery,Notebook,7,120,0.0,840.0,595.0,Credit Card,Standard
+ORD0324,2025-07-07,CUST0128,West,Maharashtra,Furniture,Office Chair,1,6500,0.0,6500.0,5300.0,UPI,Same Day
+ORD0472,2025-07-09,CUST0012,South,Karnataka,Stationery,Notebook,1,120,0.0,120.0,85.0,Debit Card,Express
+ORD0151,2025-07-11,CUST0017,South,Tamil Nadu,Stationery,File Folder,4,70,0.0,280.0,208.0,UPI,Express
+ORD0445,2025-07-12,CUST0143,East,Odisha,Electronics,Headphones,1,1800,0.1,1620.0,1100.0,Credit Card,Same Day
+ORD0304,2025-07-14,CUST0079,South,Karnataka,Home & Kitchen,Lunch Box,4,550,0.0,2200.0,1640.0,Debit Card,Express
+ORD0480,2025-07-14,CUST0027,West,Maharashtra,Stationery,Pen Pack,3,90,0.15,229.5,154.5,Debit Card,Standard
+ORD0142,2025-07-14,CUST0076,Central,Chhattisgarh,Home & Kitchen,Storage Box,3,700,0.0,2100.0,1500.0,UPI,Same Day
+ORD0499,2025-07-16,CUST0117,North,Delhi,Stationery,Markers,6,180,0.1,972.0,642.0,Cash,Express
+ORD0378,2025-07-17,CUST0001,South,Telangana,Furniture,Office Chair,7,6500,0.15,38675.0,30275.0,Credit Card,Same Day
+ORD0228,2025-07-19,CUST0079,East,West Bengal,Home & Kitchen,Coffee Mug,4,250,0.1,900.0,640.0,Cash,Same Day
+ORD0460,2025-07-20,CUST0076,North,Uttar Pradesh,Stationery,File Folder,2,70,0.0,140.0,104.0,Debit Card,Same Day
+ORD0246,2025-07-21,CUST0038,West,Gujarat,Furniture,Office Chair,6,6500,0.1,35100.0,27900.0,Cash,Standard
+ORD0238,2025-07-22,CUST0086,East,Odisha,Home & Kitchen,Coffee Mug,6,250,0.1,1350.0,960.0,Debit Card,Standard
+ORD0322,2025-07-23,CUST0035,West,Gujarat,Stationery,Pen Pack,2,90,0.1,162.0,112.0,UPI,Express
+ORD0390,2025-07-23,CUST0071,Central,Madhya Pradesh,Stationery,Pen Pack,2,90,0.1,162.0,112.0,Debit Card,Express
+ORD0179,2025-07-23,CUST0049,West,Maharashtra,Electronics,Monitor,4,12500,0.0,50000.0,41200.0,Cash,Same Day
+ORD0257,2025-07-24,CUST0070,North,Delhi,Home & Kitchen,Coffee Mug,2,250,0.0,500.0,370.0,Net Banking,Same Day
+ORD0006,2025-07-25,CUST0081,South,Tamil Nadu,Stationery,File Folder,5,70,0.15,297.5,207.5,Cash,Express
+ORD0374,2025-07-25,CUST0126,South,Telangana,Home & Kitchen,Water Bottle,1,450,0.0,450.0,330.0,Cash,Same Day
+ORD0279,2025-07-26,CUST0115,East,West Bengal,Home & Kitchen,Water Bottle,7,450,0.15,2677.5,1837.5,Debit Card,Same Day
+ORD0239,2025-08-01,CUST0027,West,Gujarat,Home & Kitchen,Water Bottle,5,450,0.0,2250.0,1650.0,Debit Card,Same Day
+ORD0162,2025-08-02,CUST0088,South,Karnataka,Stationery,File Folder,6,70,0.15,357.0,249.0,UPI,Standard
+ORD0406,2025-08-02,CUST0135,West,Maharashtra,Home & Kitchen,Lunch Box,3,550,0.1,1485.0,1065.0,Debit Card,Express
+ORD0435,2025-08-05,CUST0056,North,Uttar Pradesh,Home & Kitchen,Storage Box,5,700,0.1,3150.0,2150.0,Debit Card,Same Day
+ORD0424,2025-08-09,CUST0123,East,Odisha,Home & Kitchen,Lunch Box,2,550,0.05,1045.0,765.0,Net Banking,Same Day
+ORD0432,2025-08-10,CUST0061,South,Karnataka,Stationery,Notebook,7,120,0.1,756.0,511.0,Net Banking,Standard
+ORD0242,2025-08-12,CUST0064,South,Tamil Nadu,Stationery,Markers,1,180,0.0,180.0,125.0,Credit Card,Same Day
+ORD0347,2025-08-13,CUST0045,South,Tamil Nadu,Home & Kitchen,Storage Box,3,700,0.0,2100.0,1500.0,Debit Card,Same Day
+ORD0088,2025-08-13,CUST0020,East,West Bengal,Home & Kitchen,Water Bottle,6,450,0.2,2160.0,1440.0,Cash,Same Day
+ORD0267,2025-08-15,CUST0006,East,Bihar,Stationery,Markers,4,180,0.05,684.0,464.0,Cash,Same Day
+ORD0474,2025-08-15,CUST0115,Central,Madhya Pradesh,Electronics,Headphones,6,1800,0.0,10800.0,7680.0,UPI,Standard
+ORD0341,2025-08-15,CUST0013,South,Karnataka,Stationery,Notebook,4,120,0.0,480.0,340.0,UPI,Express
+ORD0093,2025-08-17,CUST0014,Central,Chhattisgarh,Stationery,File Folder,5,70,0.0,350.0,260.0,Debit Card,Standard
+ORD0083,2025-08-21,CUST0109,South,Tamil Nadu,Home & Kitchen,Coffee Mug,1,250,0.1,225.0,160.0,Cash,Same Day
+ORD0415,2025-08-22,CUST0028,East,Bihar,Electronics,Keyboard,7,1200,0.0,8400.0,5950.0,Debit Card,Express
+ORD0338,2025-08-24,CUST0105,South,Telangana,Furniture,Desk Lamp,2,1100,0.1,1980.0,1380.0,UPI,Standard
+ORD0486,2025-08-25,CUST0055,North,Delhi,Electronics,Headphones,5,1800,0.1,8100.0,5500.0,Debit Card,Standard
+ORD0352,2025-08-30,CUST0026,Central,Madhya Pradesh,Electronics,Monitor,1,12500,0.15,10625.0,8425.0,Credit Card,Standard
+ORD0138,2025-08-31,CUST0110,West,Gujarat,Home & Kitchen,Storage Box,4,700,0.15,2380.0,1580.0,Debit Card,Express
+ORD0479,2025-09-07,CUST0118,South,Tamil Nadu,Electronics,USB Hub,1,900,0.15,765.0,515.0,UPI,Express
+ORD0483,2025-09-07,CUST0110,North,Punjab,Furniture,Desk Lamp,6,1100,0.1,5940.0,4140.0,UPI,Standard
+ORD0356,2025-09-09,CUST0048,East,Bihar,Furniture,Desk Lamp,6,1100,0.0,6600.0,4800.0,Credit Card,Express
+ORD0079,2025-09-10,CUST0047,Central,Madhya Pradesh,Furniture,Office Chair,2,6500,0.15,11050.0,8650.0,Credit Card,Same Day
+ORD0220,2025-09-10,CUST0056,North,Punjab,Electronics,Wireless Mouse,2,650,0.05,1235.0,875.0,UPI,Same Day
+ORD0178,2025-09-14,CUST0133,Central,Chhattisgarh,Electronics,Keyboard,5,1200,0.0,6000.0,4250.0,Debit Card,Standard
+ORD0089,2025-09-16,CUST0134,East,Odisha,Stationery,Sticky Notes,6,60,0.0,360.0,270.0,Credit Card,Standard
+ORD0309,2025-09-19,CUST0059,North,Delhi,Electronics,Headphones,3,1800,0.0,5400.0,3840.0,Net Banking,Express
+ORD0221,2025-09-20,CUST0080,South,Karnataka,Electronics,Headphones,5,1800,0.0,9000.0,6400.0,Cash,Same Day
+ORD0436,2025-09-21,CUST0075,North,Delhi,Home & Kitchen,Coffee Mug,5,250,0.15,1062.5,737.5,Net Banking,Express
+ORD0451,2025-09-21,CUST0095,Central,Madhya Pradesh,Electronics,USB Hub,2,900,0.1,1620.0,1120.0,Cash,Same Day
+ORD0428,2025-09-22,CUST0127,East,Odisha,Electronics,Headphones,4,1800,0.1,6480.0,4400.0,Net Banking,Express
+ORD0316,2025-09-24,CUST0054,West,Maharashtra,Stationery,Markers,7,180,0.2,1008.0,623.0,Cash,Express
+ORD0037,2025-09-26,CUST0114,South,Tamil Nadu,Furniture,Study Desk,5,8500,0.0,42500.0,35000.0,Debit Card,Standard
+ORD0492,2025-09-26,CUST0060,South,Tamil Nadu,Stationery,Sticky Notes,7,60,0.15,357.0,252.0,Net Banking,Express
+ORD0462,2025-09-27,CUST0095,North,Uttar Pradesh,Stationery,Markers,5,180,0.1,810.0,535.0,Cash,Same Day
+ORD0459,2025-09-28,CUST0063,North,Punjab,Stationery,Markers,4,180,0.1,648.0,428.0,Net Banking,Standard
+ORD0134,2025-09-29,CUST0121,West,Gujarat,Electronics,USB Hub,6,900,0.0,5400.0,3900.0,UPI,Same Day
+ORD0375,2025-09-29,CUST0059,Central,Madhya Pradesh,Electronics,USB Hub,6,900,0.1,4860.0,3360.0,Credit Card,Express
+ORD0475,2025-09-30,CUST0006,South,Telangana,Home & Kitchen,Storage Box,3,700,0.1,1890.0,1290.0,Cash,Express
+ORD0082,2025-09-30,CUST0086,Central,Chhattisgarh,Electronics,USB Hub,4,900,0.0,3600.0,2600.0,Cash,Standard
+ORD0235,2025-09-30,CUST0146,North,Punjab,Home & Kitchen,Coffee Mug,4,250,0.0,1000.0,740.0,UPI,Standard
+ORD0161,2025-10-01,CUST0064,West,Gujarat,Stationery,Markers,5,180,0.0,900.0,625.0,Debit Card,Standard
+ORD0340,2025-10-01,CUST0003,East,Odisha,Stationery,Sticky Notes,2,60,0.05,114.0,84.0,Cash,Standard
+ORD0441,2025-10-03,CUST0048,Central,Madhya Pradesh,Stationery,Pen Pack,2,90,0.0,180.0,130.0,Debit Card,Express
+ORD0275,2025-10-04,CUST0034,East,West Bengal,Furniture,Study Desk,6,8500,0.15,43350.0,34350.0,Debit Card,Same Day
+ORD0366,2025-10-05,Unknown,Central,Chhattisgarh,Electronics,Wireless Mouse,5,650,0.0,3250.0,2350.0,Net Banking,Standard
+ORD0371,2025-10-06,CUST0109,East,West Bengal,Furniture,Office Chair,7,6500,0.0,45500.0,37100.0,Net Banking,Express
+ORD0066,2025-10-09,CUST0063,Central,Madhya Pradesh,Electronics,Wireless Mouse,6,650,0.15,3315.0,2235.0,Debit Card,Same Day
+ORD0284,2025-10-13,CUST0009,Central,Chhattisgarh,Electronics,USB Hub,5,900,0.0,4500.0,3250.0,UPI,Standard
+ORD0465,2025-10-14,CUST0084,Central,Madhya Pradesh,Stationery,Sticky Notes,6,60,0.2,288.0,198.0,Cash,Standard
+ORD0321,2025-10-14,CUST0114,West,Gujarat,Home & Kitchen,Storage Box,5,700,0.05,3325.0,2325.0,Net Banking,Express
+ORD0186,2025-10-14,CUST0142,South,Karnataka,Home & Kitchen,Lunch Box,4,550,0.1,1980.0,1420.0,Net Banking,Standard
+ORD0443,2025-10-15,CUST0139,South,Karnataka,Stationery,File Folder,6,70,0.1,378.0,270.0,Credit Card,Same Day
+ORD0032,2025-10-15,CUST0086,North,Punjab,Home & Kitchen,Lunch Box,3,550,0.1,1485.0,1065.0,Credit Card,Same Day
+ORD0169,2025-10-15,CUST0051,West,Gujarat,Home & Kitchen,Coffee Mug,5,250,0.0,1250.0,925.0,Credit Card,Same Day
+ORD0085,2025-10-16,CUST0150,Central,Madhya Pradesh,Electronics,Headphones,5,1800,0.0,9000.0,6400.0,Cash,Express
+ORD0145,2025-10-16,CUST0006,West,Rajasthan,Home & Kitchen,Coffee Mug,2,250,0.05,475.0,345.0,Cash,Standard
+ORD0423,2025-10-19,CUST0079,Central,Chhattisgarh,Electronics,Keyboard,6,1200,0.05,6840.0,4740.0,Cash,Standard
+ORD0008,2025-10-23,CUST0082,East,Bihar,Home & Kitchen,Storage Box,7,700,0.0,4900.0,3500.0,Net Banking,Express
+ORD0177,2025-10-28,CUST0047,East,Bihar,Home & Kitchen,Water Bottle,7,450,0.1,2835.0,1995.0,Debit Card,Express
+ORD0250,2025-10-30,CUST0057,South,Tamil Nadu,Electronics,Monitor,1,12500,0.1,11250.0,9050.0,Net Banking,Standard
+ORD0287,2025-10-31,CUST0020,West,Maharashtra,Electronics,Keyboard,5,1200,0.05,5700.0,3950.0,Debit Card,Standard
+ORD0192,2025-10-31,CUST0037,West,Rajasthan,Home & Kitchen,Water Bottle,2,450,0.0,900.0,660.0,Cash,Same Day
+ORD0024,2025-10-31,CUST0140,Central,Madhya Pradesh,Home & Kitchen,Coffee Mug,4,250,0.0,1000.0,740.0,Net Banking,Same Day
+ORD0260,2025-11-01,CUST0147,North,Punjab,Home & Kitchen,Lunch Box,5,550,0.1,2475.0,1775.0,UPI,Standard
+ORD0109,2025-11-01,CUST0030,West,Rajasthan,Furniture,Bookshelf,3,4200,0.1,11340.0,8940.0,Credit Card,Standard
+ORD0061,2025-11-01,CUST0014,Central,Madhya Pradesh,Electronics,Headphones,4,1800,0.0,7200.0,5120.0,UPI,Standard
+ORD0070,2025-11-02,CUST0012,South,Karnataka,Electronics,Keyboard,2,1200,0.05,2280.0,1580.0,Cash,Standard
+ORD0152,2025-11-02,CUST0014,North,Punjab,Furniture,Study Desk,2,8500,0.0,17000.0,14000.0,Net Banking,Same Day
+ORD0182,2025-11-02,CUST0029,Central,Madhya Pradesh,Furniture,Bookshelf,3,4200,0.0,12600.0,10200.0,Debit Card,Express
+ORD0183,2025-11-04,CUST0080,West,Gujarat,Furniture,Study Desk,4,8500,0.0,34000.0,28000.0,Credit Card,Same Day
+ORD0002,2025-11-05,CUST0002,South,Tamil Nadu,Electronics,USB Hub,4,900,0.0,3600.0,2600.0,Credit Card,Standard
+ORD0357,2025-11-07,CUST0102,South,Tamil Nadu,Stationery,Markers,5,180,0.05,855.0,580.0,Credit Card,Express
+ORD0080,2025-11-08,CUST0115,South,Telangana,Furniture,Study Desk,5,8500,0.0,42500.0,35000.0,Debit Card,Same Day
+ORD0123,2025-11-08,CUST0033,West,Gujarat,Stationery,Markers,6,180,0.05,1026.0,696.0,Cash,Same Day
+ORD0278,2025-11-09,CUST0117,South,Karnataka,Furniture,Study Desk,7,8500,0.0,59500.0,49000.0,Cash,Express
+ORD0384,2025-11-09,CUST0072,South,Telangana,Electronics,Monitor,4,12500,0.0,50000.0,41200.0,Debit Card,Express
+ORD0063,2025-11-12,CUST0028,North,Delhi,Electronics,Monitor,4,12500,0.05,47500.0,38700.0,UPI,Same Day
+ORD0165,2025-11-13,CUST0123,South,Tamil Nadu,Home & Kitchen,Lunch Box,7,550,0.1,3465.0,2485.0,UPI,Express
+ORD0166,2025-11-14,CUST0084,North,Uttar Pradesh,Stationery,Notebook,2,120,0.15,204.0,134.0,Debit Card,Same Day
+ORD0210,2025-11-17,CUST0121,East,Odisha,Furniture,Desk Lamp,6,1100,0.2,5280.0,3480.0,Net Banking,Express
+ORD0328,2025-11-17,CUST0145,West,Maharashtra,Electronics,Headphones,6,1800,0.0,10800.0,7680.0,Net Banking,Standard
+ORD0327,2025-11-18,CUST0013,East,Bihar,Furniture,Study Desk,4,8500,0.1,30600.0,24600.0,Cash,Express
+ORD0389,2025-11-18,CUST0006,Central,Chhattisgarh,Home & Kitchen,Lunch Box,6,550,0.05,3135.0,2295.0,Net Banking,Express
+ORD0298,2025-11-20,CUST0127,East,Odisha,Stationery,Sticky Notes,7,60,0.0,420.0,315.0,Net Banking,Same Day
+ORD0418,2025-11-21,CUST0026,West,Maharashtra,Furniture,Desk Lamp,2,1100,0.05,2090.0,1490.0,Debit Card,Same Day
+ORD0339,2025-11-25,CUST0054,Central,Chhattisgarh,Furniture,Office Chair,4,6500,0.15,22100.0,17300.0,UPI,Standard
+ORD0126,2025-11-26,CUST0057,Central,Madhya Pradesh,Electronics,Headphones,3,1800,0.2,4320.0,2760.0,UPI,Same Day
+ORD0062,2025-11-26,CUST0016,East,Odisha,Stationery,Markers,7,180,0.0,1260.0,875.0,Cash,Standard
+ORD0189,2025-11-27,CUST0129,West,Gujarat,Home & Kitchen,Water Bottle,1,450,0.0,450.0,330.0,UPI,Standard
+ORD0180,2025-11-30,CUST0130,North,Delhi,Home & Kitchen,Coffee Mug,3,250,0.0,750.0,555.0,Net Banking,Express
+ORD0320,2025-12-03,CUST0113,East,West Bengal,Home & Kitchen,Coffee Mug,7,250,0.0,1750.0,1295.0,Debit Card,Same Day
+ORD0232,2025-12-03,CUST0136,East,West Bengal,Stationery,Pen Pack,6,90,0.0,540.0,390.0,UPI,Express
+ORD0466,2025-12-03,CUST0129,East,Bihar,Stationery,Pen Pack,2,90,0.0,180.0,130.0,Net Banking,Standard
+ORD0225,2025-12-04,CUST0139,West,Rajasthan,Furniture,Study Desk,2,8500,0.1,15300.0,12300.0,Net Banking,Same Day
+ORD0050,2025-12-08,CUST0141,Central,Madhya Pradesh,Electronics,Wireless Mouse,1,650,0.05,617.5,437.5,Debit Card,Standard
+ORD0444,2025-12-09,CUST0059,East,Bihar,Stationery,Pen Pack,7,90,0.15,535.5,360.5,UPI,Standard
+ORD0312,2025-12-09,CUST0131,South,Tamil Nadu,Stationery,Pen Pack,5,90,0.1,405.0,280.0,Credit Card,Standard
+ORD0461,2025-12-11,CUST0062,South,Karnataka,Electronics,Keyboard,7,1200,0.1,7560.0,5110.0,Net Banking,Standard
+ORD0005,2025-12-12,CUST0053,North,Uttar Pradesh,Electronics,Keyboard,4,1200,0.15,4080.0,2680.0,Cash,Same Day
+ORD0426,2025-12-14,CUST0124,Central,Chhattisgarh,Stationery,Markers,6,180,0.0,1080.0,750.0,Net Banking,Same Day
+ORD0452,2025-12-16,CUST0147,North,Uttar Pradesh,Furniture,Desk Lamp,1,1100,0.1,990.0,690.0,Debit Card,Express
+ORD0184,2025-12-18,CUST0102,West,Maharashtra,Electronics,USB Hub,1,900,0.1,810.0,560.0,Credit Card,Standard
+ORD0240,2025-12-19,CUST0003,West,Rajasthan,Home & Kitchen,Water Bottle,6,450,0.05,2565.0,1845.0,Debit Card,Same Day
+ORD0205,2025-12-19,CUST0123,Central,Chhattisgarh,Electronics,USB Hub,1,900,0.1,810.0,560.0,UPI,Same Day
+ORD0035,2025-12-20,CUST0066,East,Bihar,Electronics,Monitor,3,12500,0.0,37500.0,30900.0,Debit Card,Standard
+ORD0331,2025-12-20,CUST0127,North,Punjab,Home & Kitchen,Coffee Mug,2,250,0.05,475.0,345.0,UPI,Standard
+ORD0358,2025-12-20,CUST0017,West,Rajasthan,Electronics,Monitor,3,12500,0.1,33750.0,27150.0,Debit Card,Standard
+ORD0262,2025-12-20,CUST0028,West,Gujarat,Stationery,Notebook,1,120,0.2,96.0,61.0,Debit Card,Standard
+ORD0302,2025-12-23,CUST0062,West,Maharashtra,Stationery,File Folder,3,70,0.05,199.5,145.5,UPI,Same Day
+ORD0017,2025-12-25,CUST0137,South,Tamil Nadu,Electronics,Wireless Mouse,4,650,0.05,2470.0,1750.0,Net Banking,Standard
+ORD0075,2025-12-26,CUST0132,East,West Bengal,Electronics,Headphones,6,1800,0.1,9720.0,6600.0,Debit Card,Same Day
+ORD0291,2025-12-27,CUST0001,South,Telangana,Home & Kitchen,Coffee Mug,2,250,0.0,500.0,370.0,UPI,Express
+ORD0294,2025-12-29,CUST0054,North,Uttar Pradesh,Furniture,Office Chair,5,6500,0.1,29250.0,23250.0,UPI,Standard
+ORD0124,2025-12-31,CUST0073,South,Karnataka,Electronics,Headphones,4,1800,0.0,7200.0,5120.0,UPI,Standard
+ORD0400,2026-01-01,CUST0069,Central,Madhya Pradesh,Electronics,Monitor,7,12500,0.0,87500.0,72100.0,Credit Card,Same Day
+ORD0427,2026-01-03,CUST0062,West,Rajasthan,Electronics,Monitor,1,12500,0.1,11250.0,9050.0,Credit Card,Standard
+ORD0059,2026-01-04,CUST0056,East,West Bengal,Stationery,Sticky Notes,4,60,0.2,192.0,132.0,Net Banking,Express
+ORD0049,2026-01-04,CUST0013,West,Rajasthan,Stationery,File Folder,2,70,0.0,140.0,104.0,UPI,Same Day
+ORD0397,2026-01-05,CUST0027,Central,Chhattisgarh,Home & Kitchen,Lunch Box,6,550,0.2,2640.0,1800.0,Credit Card,Same Day
+ORD0173,2026-01-06,CUST0125,South,Telangana,Stationery,File Folder,6,70,0.1,378.0,270.0,Net Banking,Express
+ORD0127,2026-01-09,CUST0025,West,Gujarat,Electronics,Headphones,7,1800,0.15,10710.0,7070.0,UPI,Same Day
+ORD0274,2026-01-12,CUST0139,East,Odisha,Electronics,Keyboard,6,1200,0.1,6480.0,4380.0,Cash,Standard
+ORD0102,2026-01-13,CUST0137,East,Odisha,Home & Kitchen,Coffee Mug,7,250,0.0,1750.0,1295.0,Debit Card,Standard
+ORD0111,2026-01-15,CUST0087,North,Punjab,Electronics,Headphones,2,1800,0.0,3600.0,2560.0,Cash,Express
+ORD0292,2026-01-15,CUST0106,South,Karnataka,Furniture,Desk Lamp,6,1100,0.0,6600.0,4800.0,UPI,Standard
+ORD0044,2026-01-15,CUST0033,East,West Bengal,Home & Kitchen,Coffee Mug,3,250,0.15,637.5,442.5,Net Banking,Same Day
+ORD0266,2026-01-16,CUST0058,East,Odisha,Electronics,USB Hub,7,900,0.15,5355.0,3605.0,UPI,Same Day
+ORD0273,2026-01-17,CUST0133,North,Punjab,Electronics,Monitor,1,12500,0.15,10625.0,8425.0,Net Banking,Standard
+ORD0494,2026-01-19,CUST0044,West,Rajasthan,Home & Kitchen,Water Bottle,1,450,0.1,405.0,285.0,Debit Card,Same Day
+ORD0464,2026-01-22,CUST0076,South,Karnataka,Stationery,Notebook,6,120,0.05,684.0,474.0,Debit Card,Same Day
+ORD0372,2026-01-26,CUST0103,West,Gujarat,Furniture,Office Chair,1,6500,0.0,6500.0,5300.0,Net Banking,Standard
+ORD0033,2026-01-28,CUST0043,Central,Chhattisgarh,Furniture,Study Desk,2,8500,0.1,15300.0,12300.0,Net Banking,Express
+ORD0048,2026-01-29,CUST0101,East,West Bengal,Electronics,Wireless Mouse,5,650,0.2,2600.0,1700.0,Debit Card,Standard
+ORD0431,2026-01-31,CUST0115,North,Uttar Pradesh,Furniture,Bookshelf,1,4200,0.1,3780.0,2980.0,Credit Card,Express
+ORD0251,2026-02-03,CUST0047,South,Tamil Nadu,Furniture,Desk Lamp,4,1100,0.1,3960.0,2760.0,Cash,Same Day
+ORD0215,2026-02-03,CUST0149,Central,Madhya Pradesh,Stationery,Markers,7,180,0.0,1260.0,875.0,Credit Card,Same Day
+ORD0136,2026-02-03,CUST0049,Central,Madhya Pradesh,Electronics,Wireless Mouse,1,650,0.15,552.5,372.5,Cash,Same Day
+ORD0209,2026-02-04,CUST0140,East,Bihar,Furniture,Study Desk,6,8500,0.05,48450.0,39450.0,Net Banking,Same Day
+ORD0413,2026-02-05,CUST0104,West,Maharashtra,Electronics,Monitor,7,12500,0.05,83125.0,67725.0,Credit Card,Standard
+ORD0121,2026-02-05,CUST0122,West,Gujarat,Stationery,Notebook,5,120,0.0,600.0,425.0,Credit Card,Express
+ORD0007,2026-02-06,CUST0044,West,Gujarat,Furniture,Study Desk,2,8500,0.1,15300.0,12300.0,Credit Card,Express
+ORD0022,2026-02-07,CUST0090,South,Telangana,Electronics,USB Hub,3,900,0.1,2430.0,1680.0,Debit Card,Same Day
+ORD0076,2026-02-07,CUST0021,South,Karnataka,Furniture,Desk Lamp,2,1100,0.1,1980.0,1380.0,Credit Card,Express
+ORD0365,2026-02-08,CUST0116,West,Rajasthan,Stationery,Pen Pack,1,90,0.0,90.0,65.0,Credit Card,Same Day
+ORD0025,2026-02-08,CUST0054,South,Karnataka,Electronics,Wireless Mouse,3,650,0.1,1755.0,1215.0,Cash,Same Day
+ORD0363,2026-02-08,CUST0117,Central,Chhattisgarh,Home & Kitchen,Coffee Mug,1,250,0.1,225.0,160.0,Debit Card,Same Day
+ORD0490,2026-02-09,CUST0079,North,Delhi,Stationery,Notebook,7,120,0.1,756.0,511.0,Debit Card,Standard
+ORD0067,2026-02-09,CUST0055,Central,Chhattisgarh,Stationery,Notebook,2,120,0.0,240.0,170.0,Cash,Standard
+ORD0213,2026-02-10,CUST0143,South,Tamil Nadu,Furniture,Desk Lamp,2,1100,0.05,2090.0,1490.0,Cash,Standard
+ORD0351,2026-02-16,CUST0065,East,West Bengal,Stationery,Markers,5,180,0.15,765.0,490.0,Cash,Express
+ORD0325,2026-02-18,CUST0102,East,Bihar,Stationery,Notebook,2,120,0.0,240.0,170.0,Debit Card,Same Day
+ORD0414,2026-02-18,CUST0126,Central,Madhya Pradesh,Stationery,Pen Pack,6,90,0.0,540.0,390.0,Credit Card,Same Day
+ORD0236,2026-02-18,CUST0032,North,Punjab,Furniture,Study Desk,4,8500,0.05,32300.0,26300.0,UPI,Standard
+ORD0244,2026-02-22,CUST0121,Central,Chhattisgarh,Home & Kitchen,Lunch Box,6,550,0.15,2805.0,1965.0,Debit Card,Same Day
+ORD0306,2026-02-23,CUST0126,North,Punjab,Home & Kitchen,Storage Box,5,700,0.05,3325.0,2325.0,UPI,Standard
+ORD0381,2026-02-23,CUST0078,South,Tamil Nadu,Electronics,Monitor,2,12500,0.0,25000.0,20600.0,UPI,Express
+ORD0140,2026-02-23,CUST0082,North,Uttar Pradesh,Home & Kitchen,Lunch Box,1,550,0.0,550.0,410.0,UPI,Same Day
+ORD0303,2026-02-24,CUST0099,North,Delhi,Stationery,File Folder,5,70,0.1,315.0,225.0,UPI,Standard
+ORD0222,2026-02-24,CUST0124,West,Gujarat,Electronics,USB Hub,7,900,0.0,6300.0,4550.0,Credit Card,Same Day
+ORD0172,2026-02-24,CUST0117,Central,Chhattisgarh,Home & Kitchen,Coffee Mug,2,250,0.15,425.0,295.0,Cash,Express
+ORD0345,2026-02-25,CUST0134,Central,Madhya Pradesh,Home & Kitchen,Lunch Box,5,550,0.0,2750.0,2050.0,Net Banking,Standard
+ORD0353,2026-02-26,CUST0015,Central,Chhattisgarh,Furniture,Office Chair,3,6500,0.0,19500.0,15900.0,Net Banking,Express
+ORD0281,2026-02-28,CUST0088,Central,Chhattisgarh,Home & Kitchen,Lunch Box,3,550,0.05,1567.5,1147.5,Credit Card,Express
+ORD0282,2026-03-02,CUST0019,South,Karnataka,Electronics,Wireless Mouse,3,650,0.2,1560.0,1020.0,Cash,Standard
+ORD0132,2026-03-02,CUST0108,West,Gujarat,Stationery,Sticky Notes,2,60,0.05,114.0,84.0,Credit Card,Same Day
+ORD0193,2026-03-03,CUST0021,East,Bihar,Furniture,Bookshelf,6,4200,0.1,22680.0,17880.0,Debit Card,Same Day
+ORD0206,2026-03-04,CUST0027,West,Maharashtra,Electronics,Wireless Mouse,4,650,0.0,2600.0,1880.0,Credit Card,Same Day
+ORD0214,2026-03-05,CUST0035,North,Uttar Pradesh,Furniture,Desk Lamp,7,1100,0.05,7315.0,5215.0,Credit Card,Express
+ORD0497,2026-03-05,CUST0090,East,West Bengal,Furniture,Desk Lamp,3,1100,0.0,3300.0,2400.0,Credit Card,Same Day
+ORD0135,2026-03-05,CUST0142,South,Tamil Nadu,Furniture,Office Chair,1,6500,0.0,6500.0,5300.0,Credit Card,Express
+ORD0104,2026-03-07,CUST0053,South,Karnataka,Home & Kitchen,Water Bottle,7,450,0.0,3150.0,2310.0,Credit Card,Standard
+ORD0439,2026-03-09,CUST0100,North,Punjab,Electronics,USB Hub,3,900,0.0,2700.0,1950.0,Debit Card,Express
+ORD0482,2026-03-09,CUST0116,East,Odisha,Electronics,Headphones,2,1800,0.1,3240.0,2200.0,Net Banking,Express
+ORD0349,2026-03-10,CUST0075,East,Bihar,Stationery,Notebook,7,120,0.1,756.0,511.0,Cash,Express
+ORD0072,2026-03-11,CUST0052,South,Karnataka,Furniture,Study Desk,2,8500,0.05,16150.0,13150.0,UPI,Same Day
+ORD0433,2026-03-13,CUST0132,North,Punjab,Stationery,Sticky Notes,3,60,0.1,162.0,117.0,Cash,Express
+ORD0488,2026-03-14,CUST0122,West,Gujarat,Electronics,Headphones,7,1800,0.1,11340.0,7700.0,UPI,Same Day
+ORD0449,2026-03-15,CUST0144,East,Odisha,Furniture,Study Desk,1,8500,0.1,7650.0,6150.0,Debit Card,Same Day
+ORD0305,2026-03-16,CUST0007,North,Delhi,Furniture,Study Desk,4,8500,0.05,32300.0,26300.0,UPI,Standard
+ORD0350,2026-03-17,CUST0026,North,Delhi,Furniture,Bookshelf,2,4200,0.0,8400.0,6800.0,Credit Card,Same Day
+ORD0118,2026-03-18,CUST0029,East,West Bengal,Furniture,Office Chair,6,6500,0.1,35100.0,27900.0,Credit Card,Same Day
+ORD0112,2026-03-19,CUST0072,South,Tamil Nadu,Home & Kitchen,Coffee Mug,1,250,0.1,225.0,160.0,UPI,Same Day
+ORD0197,2026-03-21,CUST0042,Central,Chhattisgarh,Electronics,Monitor,2,12500,0.1,22500.0,18100.0,Cash,Express
+ORD0069,2026-03-22,CUST0113,East,Odisha,Electronics,Wireless Mouse,3,650,0.0,1950.0,1410.0,Cash,Same Day
+ORD0096,2026-03-24,CUST0015,North,Punjab,Electronics,Headphones,7,1800,0.1,11340.0,7700.0,Net Banking,Standard
+ORD0149,2026-03-24,CUST0088,North,Delhi,Furniture,Office Chair,1,6500,0.0,6500.0,5300.0,Debit Card,Express
+ORD0212,2026-03-25,CUST0075,Central,Madhya Pradesh,Furniture,Office Chair,2,6500,0.15,11050.0,8650.0,Cash,Express
+ORD0487,2026-03-25,CUST0104,North,Punjab,Stationery,Sticky Notes,1,60,0.15,51.0,36.0,Debit Card,Same Day
+ORD0387,2026-03-26,CUST0047,South,Telangana,Electronics,Wireless Mouse,3,650,0.1,1755.0,1215.0,Cash,Standard
+ORD0336,2026-03-28,CUST0025,South,Tamil Nadu,Home & Kitchen,Water Bottle,1,450,0.0,450.0,330.0,UPI,Standard
+ORD0041,2026-03-29,CUST0144,East,Odisha,Electronics,Monitor,5,12500,0.0,62500.0,51500.0,Credit Card,Standard
+ORD0029,2026-03-29,CUST0061,Central,Chhattisgarh,Furniture,Office Chair,4,6500,0.1,23400.0,18600.0,Debit Card,Same Day
+ORD0208,2026-03-29,CUST0077,East,West Bengal,Stationery,File Folder,6,70,0.1,378.0,270.0,UPI,Same Day
+ORD0051,2026-03-31,CUST0028,Central,Chhattisgarh,Electronics,USB Hub,1,900,0.15,765.0,515.0,Cash,Same Day
+ORD0058,2026-04-01,CUST0061,East,Bihar,Electronics,Monitor,6,12500,0.0,75000.0,61800.0,UPI,Same Day
+ORD0412,2026-04-02,CUST0029,Central,Madhya Pradesh,Home & Kitchen,Coffee Mug,7,250,0.05,1662.5,1207.5,Net Banking,Same Day
+ORD0438,2026-04-04,CUST0149,West,Rajasthan,Furniture,Bookshelf,7,4200,0.0,29400.0,23800.0,Debit Card,Express
+ORD0064,2026-04-06,CUST0141,East,Odisha,Stationery,Notebook,1,120,0.0,120.0,85.0,Debit Card,Standard
+ORD0319,2026-04-10,CUST0082,South,Telangana,Stationery,Markers,3,180,0.15,459.0,294.0,Cash,Same Day
+ORD0219,2026-04-12,CUST0031,East,Bihar,Electronics,USB Hub,3,900,0.1,2430.0,1680.0,Net Banking,Same Day
+ORD0470,2026-04-16,CUST0128,West,Gujarat,Stationery,Notebook,4,120,0.05,456.0,316.0,UPI,Standard
+ORD0224,2026-04-16,CUST0058,North,Punjab,Furniture,Study Desk,6,8500,0.0,51000.0,42000.0,Net Banking,Standard
+ORD0023,2026-04-18,CUST0042,Central,Madhya Pradesh,Electronics,Wireless Mouse,7,650,0.15,3867.5,2607.5,Cash,Express
+ORD0038,2026-04-19,CUST0117,North,Uttar Pradesh,Furniture,Bookshelf,4,4200,0.1,15120.0,11920.0,UPI,Standard
+ORD0467,2026-04-19,CUST0111,South,Telangana,Electronics,Keyboard,3,1200,0.0,3600.0,2550.0,Net Banking,Same Day
+ORD0379,2026-04-22,CUST0073,Central,Madhya Pradesh,Home & Kitchen,Water Bottle,1,450,0.0,450.0,330.0,Cash,Standard
+ORD0174,2026-04-23,CUST0087,East,Odisha,Stationery,Notebook,3,120,0.1,324.0,219.0,Cash,Express
+ORD0376,2026-04-25,CUST0010,Central,Chhattisgarh,Electronics,Keyboard,7,1200,0.05,7980.0,5530.0,UPI,Standard
+ORD0437,2026-04-25,CUST0061,South,Tamil Nadu,Electronics,Monitor,4,12500,0.0,50000.0,41200.0,Debit Card,Standard
+ORD0473,2026-04-26,CUST0085,Central,Chhattisgarh,Furniture,Bookshelf,7,4200,0.0,29400.0,23800.0,Credit Card,Express
+ORD0416,2026-04-26,CUST0019,Central,Madhya Pradesh,Electronics,Monitor,3,12500,0.1,33750.0,27150.0,Credit Card,Same Day
+ORD0288,2026-04-27,CUST0065,South,Karnataka,Stationery,Notebook,5,120,0.0,600.0,425.0,Cash,Express
+ORD0217,2026-04-28,CUST0134,East,West Bengal,Furniture,Study Desk,6,8500,0.15,43350.0,34350.0,Net Banking,Standard
+ORD0014,2026-04-30,CUST0143,East,Bihar,Home & Kitchen,Water Bottle,4,450,0.1,1620.0,1140.0,Net Banking,Standard
+ORD0307,2026-05-01,CUST0065,East,Bihar,Stationery,Sticky Notes,2,60,0.15,102.0,72.0,Cash,Standard
+ORD0039,2026-05-03,CUST0117,Central,Madhya Pradesh,Electronics,Keyboard,1,1200,0.05,1140.0,790.0,Net Banking,Same Day
+ORD0234,2026-05-03,CUST0002,East,Odisha,Furniture,Bookshelf,2,4200,0.0,8400.0,6800.0,Net Banking,Standard
+ORD0323,2026-05-03,CUST0071,Central,Chhattisgarh,Electronics,Headphones,2,1800,0.1,3240.0,2200.0,Debit Card,Standard
+ORD0429,2026-05-05,CUST0062,North,Uttar Pradesh,Home & Kitchen,Storage Box,7,700,0.1,4410.0,3010.0,Cash,Express
+ORD0130,2026-05-05,CUST0103,South,Karnataka,Stationery,File Folder,7,70,0.05,465.5,339.5,Debit Card,Standard
+ORD0259,2026-05-07,CUST0120,North,Uttar Pradesh,Home & Kitchen,Storage Box,7,700,0.05,4655.0,3255.0,UPI,Standard
+ORD0478,2026-05-07,CUST0137,North,Punjab,Electronics,Wireless Mouse,7,650,0.2,3640.0,2380.0,Cash,Same Day
+ORD0500,2026-05-09,CUST0108,North,Delhi,Home & Kitchen,Water Bottle,7,450,0.15,2677.5,1837.5,Credit Card,Express
+ORD0195,2026-05-09,CUST0027,East,West Bengal,Electronics,USB Hub,4,900,0.0,3600.0,2600.0,Cash,Same Day
+ORD0369,2026-05-09,CUST0068,East,Odisha,Stationery,Notebook,3,120,0.1,324.0,219.0,Debit Card,Standard
+ORD0129,2026-05-13,CUST0059,Central,Madhya Pradesh,Furniture,Bookshelf,6,4200,0.0,25200.0,20400.0,Net Banking,Express
+ORD0421,2026-05-14,CUST0108,Central,Madhya Pradesh,Furniture,Office Chair,5,6500,0.15,27625.0,21625.0,UPI,Same Day
+ORD0010,2026-05-14,CUST0081,South,Telangana,Furniture,Office Chair,4,6500,0.0,26000.0,21200.0,Debit Card,Standard
+ORD0116,2026-05-15,CUST0086,West,Maharashtra,Furniture,Desk Lamp,6,1100,0.05,6270.0,4470.0,Credit Card,Express
+ORD0280,2026-05-16,CUST0072,East,Odisha,Stationery,Markers,2,180,0.05,342.0,232.0,Debit Card,Same Day
+ORD0047,2026-05-16,CUST0114,East,West Bengal,Electronics,Keyboard,3,1200,0.0,3600.0,2550.0,Debit Card,Standard
+ORD0268,2026-05-19,CUST0012,South,Tamil Nadu,Home & Kitchen,Lunch Box,3,550,0.1,1485.0,1065.0,Cash,Standard
+ORD0402,2026-05-19,CUST0131,West,Gujarat,Stationery,Markers,4,180,0.15,612.0,392.0,UPI,Same Day
+ORD0004,2026-05-20,CUST0131,East,West Bengal,Furniture,Bookshelf,6,4200,0.0,25200.0,20400.0,Debit Card,Same Day
+ORD0034,2026-05-21,CUST0135,West,Maharashtra,Stationery,Markers,2,180,0.15,306.0,196.0,Cash,Standard
+ORD0081,2026-05-21,CUST0038,North,Punjab,Home & Kitchen,Storage Box,7,700,0.0,4900.0,3500.0,Debit Card,Same Day
+ORD0016,2026-05-21,CUST0092,South,Karnataka,Furniture,Desk Lamp,4,1100,0.05,4180.0,2980.0,UPI,Standard
+ORD0283,2026-05-23,CUST0019,Central,Madhya Pradesh,Home & Kitchen,Storage Box,1,700,0.0,700.0,500.0,Cash,Express
+ORD0211,2026-05-24,CUST0142,East,West Bengal,Electronics,Wireless Mouse,5,650,0.15,2762.5,1862.5,Credit Card,Standard
+ORD0403,2026-05-24,CUST0134,Central,Madhya Pradesh,Stationery,Markers,6,180,0.05,1026.0,696.0,UPI,Same Day
+ORD0056,2026-05-26,CUST0071,East,West Bengal,Home & Kitchen,Coffee Mug,5,250,0.05,1187.5,862.5,Net Banking,Express
+ORD0021,2026-05-26,CUST0144,South,Karnataka,Electronics,USB Hub,4,900,0.2,2880.0,1880.0,UPI,Same Day
+ORD0468,2026-05-26,CUST0145,North,Uttar Pradesh,Electronics,Monitor,1,12500,0.1,11250.0,9050.0,Net Banking,Express
+ORD0167,2026-05-30,CUST0127,North,Delhi,Electronics,Monitor,4,12500,0.1,45000.0,36200.0,Cash,Express
+ORD0154,2026-05-31,CUST0099,West,Maharashtra,Stationery,Pen Pack,2,90,0.0,180.0,130.0,UPI,Same Day
+ORD0043,2026-05-31,CUST0016,West,Rajasthan,Electronics,Headphones,2,1800,0.05,3420.0,2380.0,Credit Card,Standard
+ORD0258,2026-06-03,CUST0070,East,Bihar,Electronics,Keyboard,3,1200,0.0,3600.0,2550.0,Credit Card,Same Day
+ORD0315,2026-06-04,CUST0028,West,Maharashtra,Stationery,Notebook,2,120,0.05,228.0,158.0,UPI,Standard
+ORD0160,2026-06-05,CUST0063,East,Odisha,Furniture,Study Desk,6,8500,0.1,45900.0,36900.0,Net Banking,Standard
+ORD0042,2026-06-06,CUST0069,North,Uttar Pradesh,Furniture,Office Chair,6,6500,0.05,37050.0,29850.0,Cash,Same Day
+ORD0115,2026-06-07,CUST0130,West,Rajasthan,Stationery,File Folder,2,70,0.15,119.0,83.0,Cash,Standard
+ORD0148,2026-06-08,CUST0039,West,Gujarat,Electronics,Keyboard,4,1200,0.1,4320.0,2920.0,Net Banking,Express
+ORD0077,2026-06-08,CUST0090,Central,Chhattisgarh,Electronics,USB Hub,6,900,0.0,5400.0,3900.0,Credit Card,Standard
+ORD0247,2026-06-10,CUST0003,West,Maharashtra,Furniture,Office Chair,7,6500,0.15,38675.0,30275.0,Credit Card,Same Day
+ORD0223,2026-06-10,CUST0086,East,West Bengal,Stationery,Sticky Notes,3,60,0.05,171.0,126.0,Credit Card,Express
+ORD0401,2026-06-12,CUST0082,South,Tamil Nadu,Furniture,Bookshelf,6,4200,0.1,22680.0,17880.0,Credit Card,Express
+ORD0346,2026-06-12,CUST0043,East,West Bengal,Stationery,Pen Pack,7,90,0.0,630.0,455.0,Cash,Standard
+ORD0057,2026-06-15,CUST0039,South,Tamil Nadu,Stationery,Markers,5,180,0.05,855.0,580.0,Debit Card,Standard
+ORD0265,2026-06-16,CUST0127,West,Gujarat,Furniture,Desk Lamp,3,1100,0.1,2970.0,2070.0,Cash,Express
+ORD0493,2026-06-16,CUST0134,West,Gujarat,Electronics,Wireless Mouse,2,650,0.0,1300.0,940.0,Debit Card,Express
+ORD0313,2026-06-17,CUST0044,East,Bihar,Electronics,Wireless Mouse,5,650,0.0,3250.0,2350.0,Cash,Same Day
+ORD0409,2026-06-19,CUST0021,North,Delhi,Electronics,Monitor,4,12500,0.05,47500.0,38700.0,Credit Card,Standard
+ORD0159,2026-06-20,CUST0060,East,Odisha,Furniture,Bookshelf,3,4200,0.1,11340.0,8940.0,Debit Card,Express
+ORD0440,2026-06-21,CUST0068,South,Karnataka,Stationery,Sticky Notes,5,60,0.05,285.0,210.0,Net Banking,Same Day
+ORD0168,2026-06-21,CUST0045,East,Bihar,Furniture,Study Desk,6,8500,0.1,45900.0,36900.0,Credit Card,Same Day
+ORD0216,2026-06-21,CUST0025,North,Delhi,Stationery,Pen Pack,6,90,0.2,432.0,282.0,UPI,Same Day
+ORD0231,2026-06-24,CUST0051,South,Telangana,Electronics,Headphones,4,1800,0.1,6480.0,4400.0,Credit Card,Standard
+ORD0290,2026-06-24,CUST0004,East,Odisha,Stationery,Sticky Notes,3,60,0.0,180.0,135.0,Cash,Standard
+ORD0012,2026-07-01,CUST0101,South,Telangana,Electronics,USB Hub,3,900,0.1,2430.0,1680.0,Debit Card,Standard
+ORD0086,2026-07-02,CUST0006,West,Gujarat,Electronics,Wireless Mouse,7,650,0.0,4550.0,3290.0,Cash,Same Day
+ORD0100,2026-07-04,CUST0134,North,Punjab,Electronics,USB Hub,4,900,0.0,3600.0,2600.0,Credit Card,Express
+ORD0485,2026-07-06,CUST0138,South,Karnataka,Home & Kitchen,Coffee Mug,3,250,0.1,675.0,480.0,Cash,Standard
+ORD0175,2026-07-07,CUST0062,West,Gujarat,Home & Kitchen,Storage Box,5,700,0.15,2975.0,1975.0,Cash,Standard
+ORD0392,2026-07-07,CUST0148,South,Telangana,Electronics,USB Hub,7,900,0.2,5040.0,3290.0,Cash,Same Day
+ORD0269,2026-07-08,CUST0060,North,Uttar Pradesh,Stationery,Sticky Notes,7,60,0.1,378.0,273.0,Cash,Express
+ORD0203,2026-07-08,CUST0118,South,Karnataka,Electronics,Headphones,7,1800,0.1,11340.0,7700.0,UPI,Standard
+ORD0013,2026-07-08,CUST0124,North,Delhi,Stationery,Markers,1,180,0.1,162.0,107.0,Debit Card,Same Day
+ORD0015,2026-07-11,CUST0062,North,Delhi,Electronics,Headphones,3,1800,0.0,5400.0,3840.0,Net Banking,Express
+ORD0342,2026-07-12,CUST0013,North,Delhi,Stationery,Sticky Notes,4,60,0.0,240.0,180.0,Credit Card,Express
+ORD0198,2026-07-13,CUST0123,North,Delhi,Stationery,Notebook,4,120,0.0,480.0,340.0,Net Banking,Express
+ORD0003,2026-07-15,CUST0059,Central,Madhya Pradesh,Stationery,Pen Pack,6,90,0.0,540.0,390.0,Credit Card,Same Day
+ORD0253,2026-07-17,CUST0147,West,Gujarat,Electronics,USB Hub,6,900,0.05,5130.0,3630.0,Debit Card,Express
+ORD0300,2026-07-17,CUST0118,North,Delhi,Stationery,Markers,3,180,0.1,486.0,321.0,UPI,Same Day
+ORD0442,2026-07-17,CUST0149,West,Gujarat,Furniture,Desk Lamp,5,1100,0.1,4950.0,3450.0,Cash,Express
+ORD0028,2026-07-17,CUST0008,West,Rajasthan,Stationery,Notebook,4,120,0.05,456.0,316.0,Debit Card,Express
+ORD0068,2026-07-19,CUST0083,West,Maharashtra,Furniture,Office Chair,6,6500,0.15,33150.0,25950.0,Net Banking,Express
+ORD0404,2026-07-22,CUST0085,Central,Chhattisgarh,Electronics,Monitor,1,12500,0.15,10625.0,8425.0,Net Banking,Express
+ORD0386,2026-07-23,CUST0078,West,Maharashtra,Electronics,Monitor,1,12500,0.15,10625.0,8425.0,Debit Card,Standard
+ORD0295,2026-07-25,CUST0041,West,Rajasthan,Stationery,Notebook,1,120,0.15,102.0,67.0,Net Banking,Same Day
+ORD0272,2026-07-25,CUST0128,North,Punjab,Stationery,Pen Pack,4,90,0.2,288.0,188.0,Net Banking,Standard
+ORD0227,2026-07-26,CUST0048,North,Delhi,Electronics,Wireless Mouse,1,650,0.15,552.5,372.5,UPI,Express
+ORD0150,2026-07-26,CUST0079,East,Odisha,Electronics,Keyboard,1,1200,0.2,960.0,610.0,Net Banking,Standard
+ORD0425,2026-07-26,CUST0116,South,Telangana,Electronics,Headphones,7,1800,0.05,11970.0,8330.0,Credit Card,Same Day
+ORD0326,2026-07-27,CUST0083,West,Rajasthan,Stationery,Sticky Notes,5,60,0.1,270.0,195.0,Credit Card,Standard
+ORD0087,2026-07-28,CUST0079,South,Telangana,Home & Kitchen,Lunch Box,6,550,0.0,3300.0,2460.0,Credit Card,Same Day
+ORD0434,2026-07-29,CUST0022,Central,Chhattisgarh,Stationery,File Folder,1,70,0.05,66.5,48.5,Net Banking,Standard
+ORD0271,2026-07-29,CUST0109,Central,Madhya Pradesh,Electronics,Headphones,1,1800,0.15,1530.0,1010.0,Net Banking,Standard
+ORD0263,2026-07-31,CUST0074,North,Delhi,Stationery,Notebook,1,120,0.1,108.0,73.0,Net Banking,Express
+ORD0071,2026-08-01,CUST0075,West,Rajasthan,Electronics,Headphones,1,1800,0.1,1620.0,1100.0,Cash,Express
+ORD0308,2026-08-02,CUST0075,South,Karnataka,Electronics,USB Hub,6,900,0.0,5400.0,3900.0,Cash,Express
+ORD0141,2026-08-03,CUST0142,Central,Madhya Pradesh,Stationery,Sticky Notes,5,60,0.05,285.0,210.0,Credit Card,Same Day
+ORD0318,2026-08-05,CUST0102,East,Bihar,Electronics,Headphones,2,1800,0.2,2880.0,1840.0,UPI,Express
+ORD0498,2026-08-06,CUST0108,West,Rajasthan,Electronics,Headphones,7,1800,0.2,10080.0,6440.0,Credit Card,Standard
+ORD0448,2026-08-10,CUST0108,North,Punjab,Stationery,Notebook,6,120,0.1,648.0,438.0,Cash,Standard
+ORD0489,2026-08-11,CUST0129,East,Bihar,Home & Kitchen,Water Bottle,7,450,0.0,3150.0,2310.0,Net Banking,Same Day
+ORD0196,2026-08-12,CUST0132,North,Uttar Pradesh,Stationery,Pen Pack,4,90,0.1,324.0,224.0,UPI,Express
+ORD0354,2026-08-13,CUST0046,North,Delhi,Stationery,Sticky Notes,6,60,0.0,360.0,270.0,Debit Card,Express
+ORD0233,2026-08-13,CUST0105,East,West Bengal,Stationery,Markers,1,180,0.0,180.0,125.0,UPI,Express
+ORD0202,2026-08-13,CUST0077,South,Karnataka,Electronics,Headphones,4,1800,0.0,7200.0,5120.0,UPI,Express
+ORD0383,2026-08-15,CUST0123,East,Bihar,Stationery,Sticky Notes,6,60,0.1,324.0,234.0,Credit Card,Standard
+ORD0144,2026-08-16,CUST0114,East,West Bengal,Furniture,Office Chair,4,6500,0.0,26000.0,21200.0,Net Banking,Same Day
+ORD0226,2026-08-17,CUST0042,East,West Bengal,Electronics,Monitor,2,12500,0.0,25000.0,20600.0,Credit Card,Standard
+ORD0394,2026-08-18,CUST0010,Central,Madhya Pradesh,Electronics,Monitor,2,12500,0.15,21250.0,16850.0,Debit Card,Express
+ORD0090,2026-08-19,CUST0065,North,Punjab,Electronics,Monitor,2,12500,0.0,25000.0,20600.0,Net Banking,Standard
+ORD0094,2026-08-24,CUST0042,East,West Bengal,Electronics,Headphones,3,1800,0.1,4860.0,3300.0,Credit Card,Same Day
+ORD0297,2026-08-25,CUST0103,West,Gujarat,Stationery,File Folder,5,70,0.0,350.0,260.0,Net Banking,Standard
+ORD0105,2026-08-25,CUST0075,Central,Chhattisgarh,Electronics,Wireless Mouse,3,650,0.05,1852.5,1312.5,Credit Card,Same Day
+ORD0301,2026-08-28,CUST0131,North,Uttar Pradesh,Home & Kitchen,Coffee Mug,6,250,0.0,1500.0,1110.0,Credit Card,Standard
+ORD0289,2026-08-28,CUST0150,North,Delhi,Furniture,Bookshelf,7,4200,0.1,26460.0,20860.0,Debit Card,Express
+ORD0190,2026-08-28,CUST0049,West,Maharashtra,Furniture,Desk Lamp,2,1100,0.05,2090.0,1490.0,Debit Card,Express
+ORD0398,2026-08-28,CUST0123,East,West Bengal,Home & Kitchen,Water Bottle,7,450,0.15,2677.5,1837.5,Debit Card,Express
+ORD0158,2026-08-28,CUST0053,Central,Chhattisgarh,Home & Kitchen,Coffee Mug,3,250,0.2,600.0,405.0,Debit Card,Express
+ORD0091,2026-08-29,CUST0095,South,Karnataka,Stationery,Markers,7,180,0.05,1197.0,812.0,Net Banking,Express
+ORD0469,2026-08-29,CUST0149,West,Rajasthan,Furniture,Study Desk,2,8500,0.0,17000.0,14000.0,UPI,Same Day
+ORD0395,2026-09-02,CUST0025,East,West Bengal,Home & Kitchen,Water Bottle,3,450,0.1,1215.0,855.0,Cash,Standard
+ORD0255,2026-09-04,CUST0070,Central,Madhya Pradesh,Stationery,Pen Pack,3,90,0.05,256.5,181.5,Cash,Standard
+ORD0495,2026-09-04,CUST0122,South,Karnataka,Home & Kitchen,Coffee Mug,3,250,0.0,750.0,555.0,Net Banking,Standard
+ORD0084,2026-09-05,CUST0006,Central,Chhattisgarh,Stationery,Notebook,4,120,0.0,480.0,340.0,Credit Card,Express
+ORD0103,2026-09-05,CUST0149,Central,Chhattisgarh,Electronics,Wireless Mouse,6,650,0.15,3315.0,2235.0,Cash,Express
+ORD0256,2026-09-10,CUST0086,East,Bihar,Stationery,Notebook,4,120,0.0,480.0,340.0,Debit Card,Same Day
+ORD0276,2026-09-12,CUST0139,Central,Chhattisgarh,Electronics,Headphones,1,1800,0.05,1710.0,1190.0,Debit Card,Same Day
+ORD0408,2026-09-13,CUST0047,South,Telangana,Electronics,Keyboard,4,1200,0.1,4320.0,2920.0,Debit Card,Standard
+ORD0410,2026-09-14,CUST0106,East,Odisha,Home & Kitchen,Lunch Box,7,550,0.2,3080.0,2100.0,UPI,Standard
+ORD0245,2026-09-15,CUST0125,East,Odisha,Home & Kitchen,Lunch Box,3,550,0.2,1320.0,900.0,Debit Card,Express
+ORD0101,2026-09-15,CUST0104,North,Punjab,Stationery,Pen Pack,5,90,0.0,450.0,325.0,Cash,Standard
+ORD0405,2026-09-18,CUST0107,East,West Bengal,Electronics,Monitor,6,12500,0.05,71250.0,58050.0,Cash,Express
+ORD0261,2026-09-21,CUST0127,North,Uttar Pradesh,Stationery,Notebook,5,120,0.0,600.0,425.0,UPI,Same Day
+ORD0335,2026-09-24,CUST0138,Central,Madhya Pradesh,Electronics,Keyboard,7,1200,0.05,7980.0,5530.0,Net Banking,Standard
+ORD0333,2026-09-25,CUST0065,East,Bihar,Furniture,Desk Lamp,1,1100,0.0,1100.0,800.0,Debit Card,Standard
+ORD0199,2026-09-25,CUST0125,North,Uttar Pradesh,Stationery,Pen Pack,1,90,0.1,81.0,56.0,UPI,Express
+ORD0055,2026-09-26,CUST0005,South,Karnataka,Electronics,USB Hub,2,900,0.05,1710.0,1210.0,Net Banking,Express
+ORD0264,2026-09-29,CUST0086,South,Telangana,Stationery,Notebook,2,120,0.0,240.0,170.0,Cash,Same Day
+ORD0455,2026-09-29,CUST0013,East,West Bengal,Electronics,Keyboard,7,1200,0.05,7980.0,5530.0,Credit Card,Express
